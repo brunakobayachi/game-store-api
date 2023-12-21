@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "SPeEO4T2ne8kHCQdrKzsf6Ruuv9Gc5wNQXyeJVq+BmYX+IpU3D42/78/sblxu7Vnz/NAT/EZ76FMHVnAvCkyjw==",
+  "dgSpecHash": "CK1o2S4e5rbpzojgLU2wb2ucxMHz3V4WOanQvK/bPy7D2HaI8h5LVAlo2W0jtWURJ6t45vPumysyQZCBDXRkaQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\bruna\\Downloads\\C#\\GameStore.Api\\GameStore.Api.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\bruna\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\bruna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\minimalapis.extensions\\0.10.1\\minimalapis.extensions.0.10.1.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\minivalidation\\0.7.2\\minivalidation.0.7.2.nupkg.sha512",
     "C:\\Users\\bruna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\bruna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+    "C:\\Users\\bruna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }
